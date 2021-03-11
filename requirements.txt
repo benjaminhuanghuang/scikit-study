@@ -4,5 +4,6 @@ matplotlib
 tensorflow
 numpy
 pandas
-sklearn
+scikit-learn
 scipy
+graphviz
